@@ -10,7 +10,11 @@ header, footer {
     background:lightgrey;
     margin: auto 0;
     text-align: center;
-    height: 50px;
+    height: 20vh;
+    font-size:medium;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkslategrey;
+    line-height:1;
 }
 
 a {
@@ -25,6 +29,6 @@ a {
 
 main {
     color: darkslategray;
-    min-height: 100vh;
+    min-height: 70vh;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
